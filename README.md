@@ -5,7 +5,8 @@ Esta es mi primer app hecha en node.js la cual genera archivos de tablas de mult
 
 Comando
 
+```
 npm install
-
+```
 ejemplo 
 node app crear --limite  5 -b 3
